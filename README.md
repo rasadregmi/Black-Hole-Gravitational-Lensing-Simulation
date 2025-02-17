@@ -17,4 +17,4 @@ Ensure you have Python installed, then install the required dependencies:
 `pip install numpy matplotlib scipy`
 
 ## 🖥 Output Visualization
-plt.savefig("output.png", dpi=300)
+![output](output.png)
