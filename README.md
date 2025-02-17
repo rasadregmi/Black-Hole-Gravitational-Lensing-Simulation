@@ -14,8 +14,7 @@ This project simulates the gravitational lensing effect caused by a black hole u
 
 Ensure you have Python installed, then install the required dependencies:
 
-```bash
-pip install numpy matplotlib scipy
+`pip install numpy matplotlib scipy`
 
 ## 🖥 Output Visualization
 plt.savefig("output.png", dpi=300)
